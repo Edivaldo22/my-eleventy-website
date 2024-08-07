@@ -1,7 +1,7 @@
 {
-  "name": "started-project-eleventy",
+  "name": "my-eleventy-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "criar page usando 11ty",
   "main": ".eleventy.js",
   "scripts": {
     "install": "npm install @11ty/eleventy",
