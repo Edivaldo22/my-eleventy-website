@@ -6,7 +6,8 @@
   "scripts": {
     "install": "npm install @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve --port=7777",
-    "clean":"",
+    "clean":"powershell -Command \"Remove-Item -Path 'root' -Recurse -Force\""
+,
     "deploy":"",
     "deploy-subdomain":""
   },
